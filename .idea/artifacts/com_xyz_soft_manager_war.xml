@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="com-xyz-soft-manager:war">
+    <output-path>$PROJECT_DIR$/com-xyz-soft-manager/target</output-path>
+    <root id="archive" name="com-xyz-soft-manager.war">
+      <element id="artifact" artifact-name="com-xyz-soft-manager:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/com-xyz-soft-common/com-xyz-soft-common.iml" filepath="$PROJECT_DIR$/com-xyz-soft-common/com-xyz-soft-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com-xyz-soft-dao/com-xyz-soft-dao.iml" filepath="$PROJECT_DIR$/com-xyz-soft-dao/com-xyz-soft-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com-xyz-soft-dto/com-xyz-soft-dto.iml" filepath="$PROJECT_DIR$/com-xyz-soft-dto/com-xyz-soft-dto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com-xyz-soft-exception/com-xyz-soft-exception.iml" filepath="$PROJECT_DIR$/com-xyz-soft-exception/com-xyz-soft-exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com-xyz-soft-manager/com-xyz-soft-manager.iml" filepath="$PROJECT_DIR$/com-xyz-soft-manager/com-xyz-soft-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com-xyz-soft-service/com-xyz-soft-service.iml" filepath="$PROJECT_DIR$/com-xyz-soft-service/com-xyz-soft-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com-xyz-soft-web/com-xyz-soft-web.iml" filepath="$PROJECT_DIR$/com-xyz-soft-web/com-xyz-soft-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com-xzy-soft-entity/com-xzy-soft-entity.iml" filepath="$PROJECT_DIR$/com-xzy-soft-entity/com-xzy-soft-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/softFrame.iml" filepath="$PROJECT_DIR$/softFrame.iml" />
+    </modules>
+  </component>
+</project>

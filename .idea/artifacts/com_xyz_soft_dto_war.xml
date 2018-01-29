@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="com-xyz-soft-dto:war">
+    <output-path>$PROJECT_DIR$/com-xyz-soft-dto/target</output-path>
+    <root id="archive" name="com-xyz-soft-dto.war">
+      <element id="artifact" artifact-name="com-xyz-soft-dto:war exploded" />
+    </root>
+  </artifact>
+</component>

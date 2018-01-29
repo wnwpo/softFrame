@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="com-xyz-soft-common" />
+        <module name="com-xyz-soft-dao" />
+        <module name="com-xyz-soft-dto" />
+        <module name="com-xyz-soft-exception" />
+        <module name="com-xyz-soft-manager" />
+        <module name="com-xyz-soft-service" />
+        <module name="com-xyz-soft-web" />
+        <module name="com-xzy-soft-entity" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="com-xyz-soft-common" target="1.5" />
+      <module name="com-xyz-soft-dao" target="1.5" />
+      <module name="com-xyz-soft-dto" target="1.5" />
+      <module name="com-xyz-soft-exception" target="1.5" />
+      <module name="com-xyz-soft-manager" target="1.5" />
+      <module name="com-xyz-soft-service" target="1.5" />
+      <module name="com-xyz-soft-web" target="1.5" />
+      <module name="com-xzy-soft-entity" target="1.5" />
+      <module name="softFrame" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
